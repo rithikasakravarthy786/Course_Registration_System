@@ -65,15 +65,6 @@ These tables are connected using proper JPA relationships to ensure data consist
 - POST /enroll – Enroll a user in a course
 - GET /enrollments/{userId} – View enrolled courses for a user
 
----
-
-## How to Run the Project
-1. Clone the repository from GitHub
-2. Create a MySQL database (example: course_db)
-3. Update database credentials in application.properties
-4. Run the backend using an IDE or mvn spring-boot:run
-5. Open the frontend HTML files in a browser
-6. Interact with the application through the UI
 
 ---
 
@@ -85,10 +76,5 @@ Through this project, I learned:
 - How to structure a Spring Boot project properly
 - How to use Git and GitHub for version control
 
----
 
-## Future Improvements
-- Add user authentication and authorization
-- Improve UI design and responsiveness
-- Add input validation and exception handling
-- Enhance course search and filtering functionality
+
