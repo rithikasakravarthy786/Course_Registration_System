@@ -36,21 +36,6 @@ Clean layered architecture (Controller, Service, Repository)
 
 Persistent data storage using MySQL
 
-🏗️ Project Structure
-Course_Registration_System
-│
-├── src/main/java        # Backend source code (Spring Boot)
-├── src/main/resources  # Configuration files
-├── frontend             # HTML, CSS, JavaScript frontend
-│   ├── index.html
-│   ├── register.html
-│   ├── availablecourse.html
-│   ├── enrolled.html
-│   └── myscript.js
-├── pom.xml
-├── README.md
-└── .gitignore
-
 🔗 Frontend–Backend Integration
 
 The frontend communicates with the Spring Boot backend using REST APIs. JavaScript is used to send HTTP requests and dynamically render course and registration data on the UI.
@@ -75,4 +60,4 @@ Pagination and search for courses
 
 UI improvements and responsive design
 
-👩‍💻 Author
+
