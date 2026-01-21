@@ -1,5 +1,5 @@
-#Course Registration System
-##About the Project
+Course Registration System
+About the Project
 
 This is a full-stack Course Registration System developed using Spring Boot for the backend and HTML, CSS, and JavaScript for the frontend.
 The main objective of this project is to allow users to view available courses, register for courses, and manage enrollments through a simple and user-friendly interface.
